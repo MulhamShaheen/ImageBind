@@ -12,5 +12,4 @@ iopath
 numpy
 matplotlib
 types-regex
-mayavi
 cartopy
